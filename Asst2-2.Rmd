@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Sunday, March 7 @ midnight through Github**
+**Due Sunday, March 6 @ midnight through Github**
 
 Create a data display and start fitting survey-weighted logistic regression models with the NYC HANES data to answer 
 
@@ -38,7 +38,7 @@ dim(dat)
 
 ```
 
-2. You will want to select some subset of variables from this data set. To know which ones you want, you can refer to the materials from class and the [Variable Codebook](http://nychanes.org/wp-content/uploads/sites/6/2019/01/28283961_NYC-HANES_codebook_Public_V3_011019.pdf){target="_blank"}. If you want to recode any of the variables in the data set, as we did in the class notes, you can do that in the code chunk here as well.
+2. You will want to select some subset of variables from this data set. To know which ones you want, you can refer to the materials from class and the [Variable Codebook](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/epidemiology/sites/default/files/nyc-hanes-datasets-and-resources-public-dataset-codebook.pdf){target="_blank"}. If you want to recode any of the variables in the data set, as we did in the class notes, you can do that in the code chunk here as well.
 ```{r}
 ### put recoding data here
 ### you can use comments like this to describe what you are doing
@@ -68,7 +68,7 @@ Write your text here.
 Write your text here.
 
 
-7. When you have a final data display and model output ready to go, take a screenshot or download your display/output and post on Piazza under the Assignment 2-2 Display thread.  You are welcome to post your screenshot anonymously to your classmates.
+7. When you have a final data display and model output ready to go, take a screenshot or download your display/output and post on Piazza under the Assignment 2-2 Results thread.  You are welcome to post your screenshot anonymously to your classmates.
 
 8. When you are ready to submit your assignment, do ALL of the following:
 
