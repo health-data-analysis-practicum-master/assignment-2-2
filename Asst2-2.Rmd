@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Sunday, March 6 @ midnight through Github**
+**Due Sunday, March 5 @ midnight through Github**
 
 Create a data display and start fitting survey-weighted logistic regression models with the NYC HANES data to answer 
 
