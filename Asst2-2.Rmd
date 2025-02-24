@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Sunday, March 3 @ midnight through Github**
+**Due Sunday, March 2 @ midnight through Github**
 
 Create a data display and start fitting survey-weighted logistic regression models with the NYC HANES data to answer 
 
@@ -39,7 +39,7 @@ dim(dat)
 ```
 
 2. You will want to select some subset of variables from this data set. To know which ones you want, you can refer to the materials from class and the [Variable Codebook](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/epidemiology/sites/default/files/nyc-hanes-datasets-and-resources-public-dataset-codebook.pdf){target="_blank"}. If you want to recode any of the variables in the data set, as we did in the class notes, you can do that in the code chunk here as well.
-**NOTE:** Be sure to correctly recode the smoking variable, based on the new recoding shown in class this week.
+**NOTE:** If you are using it, be sure to correctly recode the smoking variable, based on the new recoding shown in class this week.
 ```{r}
 ### put recoding data here
 ### you can use comments like this to describe what you are doing
